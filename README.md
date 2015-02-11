@@ -1,3 +1,17 @@
+# Nedir?
+
+Yazılım, grafik ve benzeri "dijital" alanlarda çalışıyor, aranıldığınızda bulunabilmek veya işlerinizi biriktirebilmek adına linkedin, twitter gibi mecralarda herkese açık profil sahibiyseniz muhtemelen "head hunter"lar çeşitli e-mailler ile kapınızı çalıyordur.
+
+İnsan Kaynakları'na saygıda kusur etmemekle birlikte, işveren ve işgöreni buluşturma işinin en niteliksiz halinin rahatsız edici boyuta geldiğini düşünüyorum / düşünüyoruz.
+
+* Hedef profesyonelin mevcut iş durumu araştırılmaksızın, beklentilerinin altındaki teklifleri ona sunmak,
+* Arayıştaki firma kimliği, firma profili ve iş tanımı hakkında herhangi bir bilgi vermemek,
+* Talep kesin olmamasına rağmen yalnızca havuz oluşsun diyerek profesyonellerde beklenti oluşturmak,
+* Özellikle bilişim gibi alanlada profesyonelin niteliklerini filtrelenmeksizin özgeçmişlerin sağa sola savurulması,
+
+Ve benzeri hareket edildiği sürece Head Hunterlardan gelen mailler enflasyona uğrayacak, aslında en uygun aday durumdan ötürü size yanıt vermiyor olacaktır. Bu nedenle "şeffaf" ve "dikkatli" olmanızı talep ediyor, aksi takdirde aşağıdaki metne benzer bir yanıt alacağınız konusunda sizi hafif aktivist bir tavırla uyarıyoruz :)
+
+
 # Headhunter-Savar
 
 Merhaba Headhunter Hanım,
