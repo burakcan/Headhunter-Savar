@@ -1,10 +1,10 @@
 # Headhunter-Savar
 
-Merhaba Headhunter Hanim,
+Merhaba Headhunter Hanım,
 
-Linkedin profilim gunceldir, cv gerekiyorsa profilimden pdf cikti alabilirsiniz; ben de atsam onu atacaktim.
+Linkedin profilim günceldir, CV gerekiyorsa profilimden pdf çıktı alabilirsiniz; ben de atsam onu atacaktım.
 
-Ayrica bos yere iki tarafin da zaman harcamamasi adina firma hakkinda bilgi paylasabilirseniz sevinirim. "Bir yuksek teknoloji firmasi" takdir edersiniz ki pek bir sey ifade etmiyor, firmanin profilinin de yuksek olup olmadigi is tercihinde onem arz ediyor. iscilerinin sahip oldugu imkanlar neler, calisma metodolojisi nedir, kac calisani var v.b. "Bir arkadasim sizden hoslaniyor." diye mail atmak ile ayni sey sanki; bu durumda tepkiniz "Aa, hadi goruselim o zaman" olmazdi diye tahmin ediyorum.
+Ayrıca boş yere iki tarafın da zaman harcamaması adina firma hakkında bilgi paylaşabilirseniz sevinirim. "Bir yüksek teknoloji firmasi" takdir edersiniz ki pek bir şey ifade etmiyor, firmanin profilinin de yüksek olup olmadığı iş tercihinde önem arz ediyor. İşçilerinin sahip olduğu imkanlar neler, çalışma metodolojisi nedir, kac çalışanı var v.b. "Bir arkadaşım sizden hoslaniyor." diye mail atmak ile ayni şey sanki; bu durumda tepkiniz "Aa, haydi görüşelim o zaman" olmazdı diye tahmin ediyorum.
 
 Iyi calismalar,
 Burak Can
