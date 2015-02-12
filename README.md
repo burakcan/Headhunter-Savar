@@ -22,3 +22,13 @@ Ayrıca boş yere iki tarafın da zaman harcamaması adına firma hakkında bilg
 
 İyi çalışmalar,
 {Your Name}
+
+
+# Lisans
+
+Public Domain
+
+
+# Benzer
+
+* [Kontra İş Anlaşması](https://github.com/larukedi/kontra-is-anlasmasi)
