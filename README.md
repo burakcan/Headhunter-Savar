@@ -14,7 +14,7 @@ Ve benzeri hareket edildiği sürece Head Hunterlardan gelen mailler enflasyona 
 
 # Headhunter-Savar
 
-Merhaba Headhunter Hanım,
+Merhaba Headhunter Bey/Hanım,
 
 Linkedin profilim günceldir, CV gerekiyorsa profilimden pdf çıktı alabilirsiniz; ben de atsam onu atacaktım.
 
